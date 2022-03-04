@@ -1,2 +1,2 @@
-# SE-pretty
+# Software Engineering - Flight Management System
 SE
